@@ -1,0 +1,15 @@
+C:\Users\cliente\Desktop\github\ConversãoDolarC#\Conversion\bin\Debug\net7.0\Conversion.exe
+C:\Users\cliente\Desktop\github\ConversãoDolarC#\Conversion\bin\Debug\net7.0\Conversion.deps.json
+C:\Users\cliente\Desktop\github\ConversãoDolarC#\Conversion\bin\Debug\net7.0\Conversion.runtimeconfig.json
+C:\Users\cliente\Desktop\github\ConversãoDolarC#\Conversion\bin\Debug\net7.0\Conversion.dll
+C:\Users\cliente\Desktop\github\ConversãoDolarC#\Conversion\bin\Debug\net7.0\Conversion.pdb
+C:\Users\cliente\Desktop\github\ConversãoDolarC#\Conversion\obj\Debug\net7.0\Conversion.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\github\ConversãoDolarC#\Conversion\obj\Debug\net7.0\Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\github\ConversãoDolarC#\Conversion\obj\Debug\net7.0\Conversion.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\github\ConversãoDolarC#\Conversion\obj\Debug\net7.0\Conversion.AssemblyInfo.cs
+C:\Users\cliente\Desktop\github\ConversãoDolarC#\Conversion\obj\Debug\net7.0\Conversion.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\github\ConversãoDolarC#\Conversion\obj\Debug\net7.0\Conversion.dll
+C:\Users\cliente\Desktop\github\ConversãoDolarC#\Conversion\obj\Debug\net7.0\refint\Conversion.dll
+C:\Users\cliente\Desktop\github\ConversãoDolarC#\Conversion\obj\Debug\net7.0\Conversion.pdb
+C:\Users\cliente\Desktop\github\ConversãoDolarC#\Conversion\obj\Debug\net7.0\Conversion.genruntimeconfig.cache
+C:\Users\cliente\Desktop\github\ConversãoDolarC#\Conversion\obj\Debug\net7.0\ref\Conversion.dll
